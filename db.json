@@ -114,49 +114,49 @@
       "preco": 1120.00,
       "categoria": "perifericos"
     }, {
-      "id": 13,
+      "id": 12,
       "titulo": "Mousepad Gamer Husky Black Avalanche Speed Extra Grande",
       "foto": "/assets/itens/mousepad1.png",
       "favorito": false,
       "preco": 75.90,
       "categoria": "perifericos"
     }, {
-      "id": 14,
+      "id": 13,
       "titulo": "Mousepad Gamer Razer Firefly V2 Chroma Médio, Preto, 10,84 x 13,99 x 0,14",
       "foto": "/assets/itens/mousepad2.png",
       "favorito": false,
       "preco": 476.90,
       "categoria": "perifericos"
     }, {
-      "id": 15,
+      "id": 14,
       "titulo": "Mouse Logitech, G903 Optico Sem Fio Gamer Lightspeed, Preto, 16000DPI, 11 Botões",
       "foto": "/assets/itens/mouse2.jpg",
       "favorito": false,
       "preco": 775.80,
       "categoria": "perifericos"
     }, {
-      "id": 16,
+      "id": 15,
       "titulo": "Teclado Óptico-mecânico Gamer Razer Huntsman Mini, Chroma, Switch Red ",
       "foto": "/assets/itens/teclado2.png",
       "favorito": false,
       "preco": 820.30,
       "categoria": "perifericos"
     }, {
-      "id": 17,
+      "id": 16,
       "titulo": "Headset Sem Fio Gamer HyperX Cloud Flight, Drivers 50mm, LED, Múltiplas Plataformas",
       "foto": "/assets/itens/headset2.png",
       "favorito": false,
       "preco": 502.90,
       "categoria": "perifericos"
     }, {
-      "id": 18,
+      "id": 17,
       "titulo": "Controle Sony Dualshock 4 PS4, Sem Fio, Preto",
       "foto": "/assets/itens/controle2.png",
       "favorito": false,
       "preco": 260.50,
       "categoria": "perifericos"
     }, {
-      "id": 19,
+      "id": 18,
       "titulo": "Jogo Marvels Spider-Man GOTY Edition para PS4 - Insomniac Games",
       "foto": "/assets/itens/jogo-1.png",
       "favorito": false,
@@ -164,7 +164,7 @@
       "categoria": "jogos"
     }, {
     }, {
-      "id": 20,
+      "id": 19,
       "titulo": "GTA V para PS5 Rockstar Games",
       "foto": "/assets/itens/jogo-2.png",
       "favorito": false,
@@ -172,7 +172,7 @@
       "categoria": "jogos"
     }, {
     }, {
-      "id": 21,
+      "id": 20,
       "titulo": "God of War para PS4 - Santa Monica Studio",
       "foto": "/assets/itens/jogo-4.png",
       "favorito": false,
@@ -180,7 +180,7 @@
       "categoria": "jogos"
     }, {
     }, {
-      "id": 22,
+      "id": 21,
       "titulo": "God of War Ragnarok para PS5 - Santa Monica Studio",
       "foto": "/assets/itens/jogo-5.png",
       "favorito": false,
@@ -188,7 +188,7 @@
       "categoria": "jogos"
     }, {
     }, {
-      "id": 24,
+      "id": 22,
       "titulo": "Pro Evolution Soccer 12 - PES 2012 - Xbox 360 - Konami",
       "foto": "/assets/itens/jogo-7.png",
       "favorito": false,
@@ -196,7 +196,7 @@
       "categoria": "jogos"
     }, {
     }, {
-      "id": 25,
+      "id": 23,
       "titulo": "Jogo Red Dead Redemption 2 - Xbox One - Rockstar Games",
       "foto": "/assets/itens/jogo-8.png",
       "favorito": false,
@@ -204,7 +204,7 @@
       "categoria": "jogos"
     }, {
     }, {
-      "id": 26,
+      "id": 24,
       "titulo": "Grand Theft Auto San Andreas (GTA) PS2 - Rock Star Games",
       "foto": "/assets/itens/jogo-9.png",
       "favorito": false,
@@ -212,7 +212,7 @@
       "categoria": "jogos"
     }, {
     }, {
-      "id": 27,
+      "id": 25,
       "titulo": "FIFA 23 para XBOX Series X EA",
       "foto": "/assets/itens/jogo-10.png",
       "favorito": false,
@@ -220,49 +220,49 @@
       "categoria": "jogos"
     }, {
     }, {
-      "id": 28,
+      "id": 26,
       "titulo": "FIFA 23 para PS5 EA",
       "foto": "/assets/itens/jogo-11.png",
       "favorito": false,
       "preco": 310.90,
       "categoria": "jogos"
     }, {
-      "id": 29,
+      "id": 27,
       "titulo": "Placa de Vídeo Asus NVIDIA GeForce RTX 2060, 12GB GDDR6, 128 Bits ",
       "foto": "/assets/itens/placa2.png",
       "favorito": false,
       "preco": 4800.20,
       "categoria": "computadores"
     }, {
-      "id": 30,
+      "id": 28,
       "titulo": "Placa de Vídeo GTX 1660 Super OC Gigabyte NVIDIA Geforce, 6GB GDDR6",
       "foto": "/assets/itens/placa3.png",
       "favorito": false,
       "preco": 1560.40,
       "categoria": "computadores"
     }, {
-      "id": 31,
+      "id": 29,
       "titulo": "Processador gamer Intel Core i7-7700 CM8067702868314 de 4 núcleos e 4.2GHz de frequência",
       "foto": "/assets/itens/processador1.png",
       "favorito": false,
       "preco": 730.22,
       "categoria": "computadores"
     }, {
-      "id": 32,
+      "id": 30,
       "titulo": "Processador Ryzen 7 3800XT AM4 3.9GHz - AMD",
       "foto": "/assets/itens/processador2.png",
       "favorito": false,
       "preco": 2659.90,
       "categoria": "computadores"
     }, {
-      "id": 33,
+      "id": 31,
       "titulo": "Memória HyperX Fury de 8GB DIMM DDR4 2400Mhz",
       "foto": "/assets/itens/ram1.png",
       "favorito": false,
       "preco": 160,
       "categoria": "computadores"
     },{
-      "id": 35,
+      "id": 32,
       "titulo": "Gabinete Gamer Mid Tower RGB BOLT",
       "foto": "/assets/itens/gabinete1.png",
       "favorito": false,
@@ -270,7 +270,7 @@
       "categoria": "computadores"
     },
     {
-      "id": 36,
+      "id": 33,
       "titulo": "Placa-Mãe Gigabyte B450M DS3H AMD AM4 mATX DDR4",
       "foto": "/assets/itens/placaMae1.png",
       "favorito": false,
@@ -278,7 +278,7 @@
       "categoria": "computadores"
     },
     {
-      "id": 37,
+      "id": 34,
       "titulo": "Gabinete Gamer Mid Tower Black Hawk RGB Fortrek",
       "foto": "/assets/itens/gabinete2.png",
       "favorito": false,
@@ -286,7 +286,7 @@
       "categoria": "computadores"
     }
     , {
-      "id": 38,
+      "id": 35,
       "titulo": "Placa-Mãe Gigabyte B450M DS3H AMD AM4 mATX DDR4",
       "foto": "/assets/itens/placaMae2.png",
       "favorito": false,
@@ -294,7 +294,7 @@
       "categoria": "computadores"
     }
     , {
-      "id": 39,
+      "id": 36,
       "titulo": "HD Seagate 1TB BarraCuda, 3.5', SATA",
       "foto": "/assets/itens/hd.png",
       "favorito": false,
@@ -302,7 +302,7 @@
       "categoria": "computadores"
     }
     , {
-      "id": 40,
+      "id": 37,
       "titulo": "Mesa Gamer Mancer Wicca, RGB, Preto,",
       "foto": "/assets/itens/mesa1.png",
       "favorito": false,
@@ -310,7 +310,7 @@
       "categoria": "escritorio"
     }
     , {
-      "id": 41,
+      "id": 38,
       "titulo": "Mesa para escritório, Madeira, Pernas de ferro",
       "foto": "/assets/itens/mesa2.png",
       "favorito": false,
@@ -318,7 +318,7 @@
       "categoria": "escritorio"
     }
     , {
-      "id": 42,
+      "id": 39,
       "titulo": "Mesa Gamer TGT Urutu, Preto e Vermelho",
       "foto": "/assets/itens/mesa3.png",
       "favorito": false,
@@ -326,7 +326,7 @@
       "categoria": "escritorio"
     }
     , {
-      "id": 43,
+      "id": 40,
       "titulo": "Mesa Para Escritório De Canto, 2 Gavetas, Preto ",
       "foto": "/assets/itens/mesa4.png",
       "favorito": false,
@@ -334,7 +334,7 @@
       "categoria": "escritorio"
     }
     , {
-      "id": 44,
+      "id": 41,
       "titulo": "Cadeira de Escritório Presidente Ergonomica ANM",
       "foto": "/assets/itens/cadeira1.png",
       "favorito": false,
@@ -342,7 +342,7 @@
       "categoria": "escritorio"
     }
     , {
-      "id": 45,
+      "id": 42,
       "titulo": "Cadeira de Escritório Presidente MB-C730 Travel Max",
       "foto": "/assets/itens/cadeira2.png",
       "favorito": false,
@@ -350,7 +350,7 @@
       "categoria": "escritorio"
     }
     , {
-      "id": 46,
+      "id": 43,
       "titulo": "Cadeira Gamer Reclinável TGC12 ThunderX3",
       "foto": "/assets/itens/cadeira3.png",
       "favorito": false,
@@ -358,7 +358,7 @@
       "categoria": "escritorio"
     }
     , {
-      "id": 47,
+      "id": 44,
       "titulo": "Cadeira Gamer Reclinável TGC12 ThunderX3",
       "foto": "/assets/itens/cadeira4.png",
       "favorito": false,
@@ -366,7 +366,7 @@
       "categoria": "escritorio"
     }
     , {
-      "id": 48,
+      "id": 45,
       "titulo": "Cadeira Gamer Reclinável Mad Racer V8 Turbo PCYes",
       "foto": "/assets/itens/cadeira5.png",
       "favorito": false,
