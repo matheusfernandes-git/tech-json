@@ -188,14 +188,6 @@
       "categoria": "jogos"
     }, {
     }, {
-      "id": 23,
-      "titulo": "Jogo Minecraft Xbox 360 - Mídia Física",
-      "foto": "/assets/itens/jogo-6.png",
-      "favorito": false,
-      "preco": 228.90,
-      "categoria": "jogos"
-    }, {
-    }, {
       "id": 24,
       "titulo": "Pro Evolution Soccer 12 - PES 2012 - Xbox 360 - Konami",
       "foto": "/assets/itens/jogo-7.png",
@@ -269,14 +261,7 @@
       "favorito": false,
       "preco": 160,
       "categoria": "computadores"
-    }, {
-      "id": 34,
-      "titulo": "Memória Ram 16gb (2x8gb) Asgard Loki W2 Rgb 3200mhz Cl16 Ddr4h",
-      "foto": "/assets/itens/ram2.png",
-      "favorito": false,
-      "preco": 282.90,
-      "categoria": "computadores"
-    }, {
+    },{
       "id": 35,
       "titulo": "Gabinete Gamer Mid Tower RGB BOLT",
       "foto": "/assets/itens/gabinete1.png",
